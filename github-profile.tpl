@@ -1,7 +1,5 @@
 ### Hi there 👋
-####  My Hackatime stats in the last week 
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
