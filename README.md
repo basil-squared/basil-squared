@@ -15,25 +15,29 @@
 
 #### 🌱 My latest projects
 
-- [fang](https://github.com/charmbracelet/fang) - The CLI starter kit
-- [sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
-- [colorprofile](https://github.com/charmbracelet/colorprofile) - Magical terminal color handling 🪄
-- [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
-- [huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️
-- [nur](https://github.com/charmbracelet/nur) - 
-- [pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
-- [hotdiva2000](https://github.com/charmbracelet/hotdiva2000) - A human-readable random string generator 👑
-- [x](https://github.com/charmbracelet/x) - Charm experimental packages
-- [mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions.
+- [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) - 
+- [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town.
+- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) - 
+- [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school.
+- [Tabbyslimeblog-V2](https://github.com/basil-squared/Tabbyslimeblog-V2) - 
+- [BadMouthedParrot](https://github.com/basil-squared/BadMouthedParrot) - A pirate insult generator to statle ye fellow seadogs
+- [therealdots](https://github.com/basil-squared/therealdots) - 
+- [Dill](https://github.com/basil-squared/Dill) - A meta package-manager, written in Go!
+- [dots](https://github.com/basil-squared/dots) - 
 
 #### 🍴 My recent forks
 
-- [sh](https://github.com/charmbracelet/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [readme-scribe](https://github.com/charmbracelet/readme-scribe) - A GitHub Action that automatically generates & updates markdown content (like your README.md)
-- [markscribe](https://github.com/charmbracelet/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
-- [winget-pkgs](https://github.com/charmbracelet/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [console](https://github.com/charmbracelet/console) - console package for Go
-- [ssh](https://github.com/charmbracelet/ssh) - Easy SSH servers in Golang
+- [wakatime-aseprite](https://github.com/basil-squared/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [shaderinit](https://github.com/basil-squared/shaderinit) - 
+- [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
+- [riceathon](https://github.com/basil-squared/riceathon) - Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks
+- [OnBoard](https://github.com/basil-squared/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
+- [sprig](https://github.com/basil-squared/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
+- [hackpad](https://github.com/basil-squared/hackpad) - A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral
+- [nixpkgs](https://github.com/basil-squared/nixpkgs) - Nix Packages collection & NixOS
+- [gols](https://github.com/basil-squared/gols) - ls with icons, written in go
+- [tux](https://github.com/basil-squared/tux) - 
 
 #### 🔭 Latest releases I've contributed to
 
