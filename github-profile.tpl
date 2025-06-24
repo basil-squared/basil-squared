@@ -1,5 +1,7 @@
 ### Hi there 👋
+####  My Hackatime stats in the last week 
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
@@ -25,10 +27,7 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+
 
 #### 📓 Gists I wrote
 {{range gists 5}}
@@ -56,9 +55,11 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+- Bluesky: https://bsky.app/profile/basil-squared.bsky.social
+
+
+
+
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/charmbracelet/readme-scribe)!
 
