@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm coding, mostly for myself, but right now im working on....
+
+### 🧀 Charcuterie
+A Balatro mod featuring many cool features, WIP
+![https://github.com/basil-squared/charcuterie](check out here)
 
 <!--
 **basil-squared/basil-squared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
