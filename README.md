@@ -8,7 +8,7 @@
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 month ago)
 - [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (1 month ago)
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (3 months ago)
-- [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (4 months ago)
+- [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (5 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (7 months ago)
 - [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (7 months ago)
 - [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (7 months ago)
@@ -46,12 +46,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 days ago)
+- [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 week ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 week ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (1 month ago)
-- [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (4 months ago)
+- [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (5 months ago)
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (7 months ago)
 - [g](https://github.com/basil-squared/hackpad/pull/1) on [hackpad](https://github.com/basil-squared/hackpad) (8 months ago)
 - [Add the Pointless Clicker.](https://github.com/hackclub/sprig/pull/2466) on [sprig](https://github.com/hackclub/sprig) (8 months ago)
@@ -71,7 +71,7 @@
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (1 month ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (7 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (10 months ago)
-- [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (10 months ago)
+- [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (11 months ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 year ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (1 year ago)
 
