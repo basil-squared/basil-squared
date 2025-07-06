@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 week ago)
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (2 weeks ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (1 month ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 month ago)
 - [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (1 month ago)
@@ -41,13 +41,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.3](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.3), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
-- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 2 weeks ago) - Tux is an all in one bot for the All Things Linux discord server.
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.3](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.3), 2 weeks ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 3 weeks ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
 
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 week ago)
-- [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 week ago)
+- [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (2 weeks ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (1 month ago)
