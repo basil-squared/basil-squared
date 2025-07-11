@@ -68,7 +68,7 @@
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (1 month ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 month ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 month ago)
-- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (1 month ago)
+- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (2 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (8 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (11 months ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (11 months ago)
