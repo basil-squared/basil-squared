@@ -10,8 +10,8 @@
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (3 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (5 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (7 months ago)
-- [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (7 months ago)
 - [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (7 months ago)
+- [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (7 months ago)
 
 #### 🌱 My latest projects
 
