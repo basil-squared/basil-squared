@@ -42,11 +42,11 @@
 #### 🔭 Latest releases I've contributed to
 
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.3](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.3), 3 weeks ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
-- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 4 weeks ago) - Tux is an all in one bot for the All Things Linux discord server.
+- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (2 weeks ago)
+- [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (3 weeks ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (3 weeks ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (1 month ago)
