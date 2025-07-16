@@ -10,8 +10,8 @@
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (3 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (5 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (7 months ago)
-- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (7 months ago)
-- [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (7 months ago)
+- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (8 months ago)
+- [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -66,8 +66,8 @@
 
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 month ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (1 month ago)
-- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 month ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 month ago)
+- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (2 months ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (2 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (8 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (11 months ago)
