@@ -53,7 +53,7 @@
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (2 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (5 months ago)
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (8 months ago)
-- [g](https://github.com/basil-squared/hackpad/pull/1) on [hackpad](https://github.com/basil-squared/hackpad) (8 months ago)
+- [g](https://github.com/basil-squared/hackpad/pull/1) on [hackpad](https://github.com/basil-squared/hackpad) (9 months ago)
 - [Add the Pointless Clicker.](https://github.com/hackclub/sprig/pull/2466) on [sprig](https://github.com/hackclub/sprig) (9 months ago)
 - [Add the tabbyhack K4!!!](https://github.com/hackclub/hackpad/pull/82) on [hackpad](https://github.com/hackclub/hackpad) (9 months ago)
 
@@ -64,8 +64,8 @@
 
 #### ⭐ Recent Stars
 
-- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 month ago)
-- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (1 month ago)
+- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (2 months ago)
+- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (2 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (2 months ago)
