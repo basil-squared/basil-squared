@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [dotfile](https://github.com/basil-squared/dotfile) - 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions.
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) - 
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town.
@@ -24,7 +25,6 @@
 - [BadMouthedParrot](https://github.com/basil-squared/BadMouthedParrot) - A pirate insult generator to statle ye fellow seadogs
 - [therealdots](https://github.com/basil-squared/therealdots) - 
 - [Dill](https://github.com/basil-squared/Dill) - A meta package-manager, written in Go!
-- [dots](https://github.com/basil-squared/dots) - 
 
 #### 🍴 My recent forks
 
