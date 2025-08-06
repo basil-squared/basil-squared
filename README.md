@@ -6,7 +6,7 @@
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 month ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 months ago)
-- [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (2 months ago)
+- [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (3 months ago)
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (4 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (6 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (8 months ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 3 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 4 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
