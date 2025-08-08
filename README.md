@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 5 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 6 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
@@ -69,7 +69,7 @@
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (2 months ago)
-- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (8 months ago)
+- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (9 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 year ago)
