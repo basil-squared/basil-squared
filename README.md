@@ -5,7 +5,7 @@
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 month ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 months ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 months ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (3 months ago)
 - [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (3 months ago)
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (4 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (6 months ago)
