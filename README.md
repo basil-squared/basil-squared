@@ -41,12 +41,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0](https://github.com/basil-squared/Charcuterie/releases/tag/1.0), today) - A balatro mod of epic proportions.
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.01](https://github.com/basil-squared/Charcuterie/releases/tag/1.01), today) - A balatro mod of epic proportions.
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
 
+- [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (today)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (today)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 month ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 month ago)
@@ -56,7 +57,6 @@
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (6 months ago)
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (8 months ago)
 - [g](https://github.com/basil-squared/hackpad/pull/1) on [hackpad](https://github.com/basil-squared/hackpad) (9 months ago)
-- [Add the Pointless Clicker.](https://github.com/hackclub/sprig/pull/2466) on [sprig](https://github.com/hackclub/sprig) (9 months ago)
 
 
 
