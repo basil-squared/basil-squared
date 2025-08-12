@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (today)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 month ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (3 months ago)
@@ -10,8 +10,8 @@
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (4 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (6 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (8 months ago)
-- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (8 months ago)
 - [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school. (8 months ago)
+- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -41,11 +41,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0](https://github.com/basil-squared/Charcuterie/releases/tag/1.0), today) - A balatro mod of epic proportions.
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
 
+- [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (today)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 month ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 month ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (2 months ago)
@@ -55,7 +57,6 @@
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (8 months ago)
 - [g](https://github.com/basil-squared/hackpad/pull/1) on [hackpad](https://github.com/basil-squared/hackpad) (9 months ago)
 - [Add the Pointless Clicker.](https://github.com/hackclub/sprig/pull/2466) on [sprig](https://github.com/hackclub/sprig) (9 months ago)
-- [Add the tabbyhack K4!!!](https://github.com/hackclub/hackpad/pull/82) on [hackpad](https://github.com/hackclub/hackpad) (10 months ago)
 
 
 
