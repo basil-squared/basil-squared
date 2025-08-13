@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [balatro-mod-index](https://github.com/basil-squared/balatro-mod-index) - A comprehensive collection of mods for Balatro, the roguelike poker deckbuilder. This repository serves as a central hub for the Balatro modding community.
 - [wakatime-aseprite](https://github.com/basil-squared/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [shaderinit](https://github.com/basil-squared/shaderinit) - 
 - [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
@@ -37,7 +38,6 @@
 - [hackpad](https://github.com/basil-squared/hackpad) - A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral
 - [nixpkgs](https://github.com/basil-squared/nixpkgs) - Nix Packages collection & NixOS
 - [gols](https://github.com/basil-squared/gols) - ls with icons, written in go
-- [tux](https://github.com/basil-squared/tux) - 
 
 #### 🔭 Latest releases I've contributed to
 
