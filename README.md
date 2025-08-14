@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 day ago)
-- [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (1 day ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 days ago)
+- [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (2 days ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 month ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (3 months ago)
@@ -41,14 +41,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.01](https://github.com/basil-squared/Charcuterie/releases/tag/1.01), 1 day ago) - A balatro mod of epic proportions.
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.01](https://github.com/basil-squared/Charcuterie/releases/tag/1.01), 2 days ago) - A balatro mod of epic proportions.
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
-- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 1 month ago) - Tux is an all in one bot for the All Things Linux discord server.
+- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 2 months ago) - Tux is an all in one bot for the All Things Linux discord server.
 
 #### 🔨 My recent Pull Requests
 
-- [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 day ago)
-- [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 day ago)
+- [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (2 days ago)
+- [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (2 days ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 month ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 month ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (2 months ago)
