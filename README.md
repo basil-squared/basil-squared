@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [AsepriteDirectory](https://github.com/basil-squared/AsepriteDirectory) - a fully-open-source website designed to make finding aseprite extensions and themes trivial.
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) - 
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers
@@ -24,7 +25,6 @@
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town.
 - [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) - 
 - [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school.
-- [Tabbyslimeblog-V2](https://github.com/basil-squared/Tabbyslimeblog-V2) - 
 
 #### 🍴 My recent forks
 
