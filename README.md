@@ -2,8 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 days ago)
+- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (1 day ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (4 days ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 days ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (1 month ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (3 months ago)
@@ -11,10 +12,10 @@
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) -  (4 months ago)
 - [juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (6 months ago)
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town. (8 months ago)
-- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) -  (9 months ago)
 
 #### 🌱 My latest projects
 
+- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers
 - [dotfile](https://github.com/basil-squared/dotfile) - 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions.
@@ -24,7 +25,6 @@
 - [WISDHCsite](https://github.com/basil-squared/WISDHCsite) - hack club website for my school.
 - [Tabbyslimeblog-V2](https://github.com/basil-squared/Tabbyslimeblog-V2) - 
 - [BadMouthedParrot](https://github.com/basil-squared/BadMouthedParrot) - A pirate insult generator to statle ye fellow seadogs
-- [therealdots](https://github.com/basil-squared/therealdots) - 
 
 #### 🍴 My recent forks
 
