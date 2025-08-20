@@ -81,6 +81,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Maxxum69](https://github.com/Maxxum69)
 - [thecaprisun](https://github.com/thecaprisun)
 - [gogodze](https://github.com/gogodze)
 - [ddjerqq](https://github.com/ddjerqq)
