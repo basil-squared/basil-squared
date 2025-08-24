@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [SwiftGuessingGame](https://github.com/basil-squared/SwiftGuessingGame) - blargh
 - [dieOfBalatro](https://github.com/basil-squared/dieOfBalatro) - 
 - [AsepriteDirectory](https://github.com/basil-squared/AsepriteDirectory) - a fully-open-source website designed to make finding aseprite extensions and themes trivial.
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) - 
@@ -24,7 +25,6 @@
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions.
 - [friendsofjimboeviledition](https://github.com/basil-squared/friendsofjimboeviledition) - 
 - [JuniTab](https://github.com/basil-squared/JuniTab) - the coolest new tab in town.
-- [Digital-Snowglobe](https://github.com/basil-squared/Digital-Snowglobe) - 
 
 #### 🍴 My recent forks
 
