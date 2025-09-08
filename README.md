@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (today)
-- [Respawn](https://github.com/basil-squared/Respawn) -  (2 days ago)
+- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (1 day ago)
+- [Respawn](https://github.com/basil-squared/Respawn) -  (3 days ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 weeks ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (3 weeks ago)
