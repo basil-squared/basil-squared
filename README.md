@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (6 days ago)
+- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (1 week ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (1 week ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (4 weeks ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 weeks ago)
-- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (4 weeks ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
+- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (1 month ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (1 month ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (2 months ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (3 months ago)
@@ -67,8 +67,8 @@
 
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (3 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (3 months ago)
-- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (3 months ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (3 months ago)
+- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (4 months ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (4 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (4 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (10 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
