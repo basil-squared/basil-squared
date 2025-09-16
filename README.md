@@ -65,8 +65,8 @@
 
 #### ⭐ Recent Stars
 
-- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (3 months ago)
-- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (3 months ago)
+- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (4 months ago)
+- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod  (4 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (4 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (4 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (4 months ago)
