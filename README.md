@@ -74,7 +74,7 @@
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 year ago)
-- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (1 year ago)
+- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
