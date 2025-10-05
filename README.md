@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (3 weeks ago)
-- [Respawn](https://github.com/basil-squared/Respawn) -  (4 weeks ago)
+- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (4 weeks ago)
+- [Respawn](https://github.com/basil-squared/Respawn) -  (1 month ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (1 month ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (1 month ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
@@ -11,7 +11,7 @@
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (3 months ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (4 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (4 months ago)
-- [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (4 months ago)
+- [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (5 months ago)
 
 #### 🌱 My latest projects
 
