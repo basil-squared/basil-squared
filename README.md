@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (4 weeks ago)
+- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (1 month ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (1 month ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (1 month ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (1 month ago)
@@ -70,7 +70,7 @@
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (4 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (4 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (4 months ago)
-- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (10 months ago)
+- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (11 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 year ago)
