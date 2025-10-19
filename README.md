@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [phonkMod](https://github.com/basil-squared/phonkMod) - 
 - [Respawn](https://github.com/basil-squared/Respawn) - 
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth
 - [SwiftGuessingGame](https://github.com/basil-squared/SwiftGuessingGame) - blargh
@@ -24,7 +25,6 @@
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers
 - [dotfile](https://github.com/basil-squared/dotfile) - 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions.
 
 #### 🍴 My recent forks
 
