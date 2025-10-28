@@ -9,7 +9,7 @@
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (2 months ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (4 months ago)
-- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (4 months ago)
+- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (5 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (5 months ago)
 - [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (5 months ago)
 
@@ -52,8 +52,8 @@
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (2 months ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (4 months ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (4 months ago)
-- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (4 months ago)
-- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (4 months ago)
+- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (5 months ago)
+- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (5 months ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (5 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (8 months ago)
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (11 months ago)
@@ -73,7 +73,7 @@
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (11 months ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
-- [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 year ago)
+- [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 years ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
