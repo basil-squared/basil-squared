@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (today)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (2 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (2 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 months ago)
@@ -11,10 +12,10 @@
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (5 months ago)
 - [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (6 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (6 months ago)
-- [fluxc0](https://github.com/basil-squared/fluxc0) - are you a cop? (6 months ago)
 
 #### 🌱 My latest projects
 
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
 - [Respawn](https://github.com/basil-squared/Respawn) - 
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth
@@ -24,7 +25,6 @@
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) - 
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers
-- [dotfile](https://github.com/basil-squared/dotfile) - 
 
 #### 🍴 My recent forks
 
