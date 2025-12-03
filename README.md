@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (today)
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (1 day ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (2 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (2 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 months ago)
