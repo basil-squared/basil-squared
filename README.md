@@ -10,7 +10,7 @@
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (3 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (3 months ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (5 months ago)
-- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (6 months ago)
+- [tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux (6 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -43,7 +43,7 @@
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 3 months ago) - A balatro mod of epic proportions.
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 4 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
-- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 5 months ago) - Tux is an all in one bot for the All Things Linux discord server.
+- [tux](https://github.com/allthingslinux/tux) ([v0.1.0rc4](https://github.com/allthingslinux/tux/releases/tag/v0.1.0rc4), 5 months ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 
 #### 🔨 My recent Pull Requests
 
@@ -74,7 +74,7 @@
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 years ago)
-- [tux](https://github.com/allthingslinux/tux) - Tux is an all in one bot for the All Things Linux discord server. (2 years ago)
+- [tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
