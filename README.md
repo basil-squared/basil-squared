@@ -2,19 +2,20 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (today)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (2 days ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (2 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (3 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (3 months ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (3 months ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (5 months ago)
 - [tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux (6 months ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (6 months ago)
 
 #### 🌱 My latest projects
 
+- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
 - [Respawn](https://github.com/basil-squared/Respawn) - 
@@ -24,7 +25,6 @@
 - [AsepriteDirectory](https://github.com/basil-squared/AsepriteDirectory) - a fully-open-source website designed to make finding aseprite extensions and themes trivial.
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) - 
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
-- [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers
 
 #### 🍴 My recent forks
 
