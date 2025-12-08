@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (2 days ago)
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (5 days ago)
+- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 days ago)
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (6 days ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (3 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (3 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 months ago)
@@ -69,7 +69,7 @@
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (6 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (6 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (6 months ago)
-- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (6 months ago)
+- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (7 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (1 year ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (1 year ago)
