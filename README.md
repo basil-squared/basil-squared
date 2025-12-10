@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (today)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (5 days ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (1 week ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (3 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (3 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (3 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (3 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (4 months ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (5 months ago)
