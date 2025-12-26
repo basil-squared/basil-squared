@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
-- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (2 weeks ago)
+- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 weeks ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (3 weeks ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (3 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (3 months ago)
