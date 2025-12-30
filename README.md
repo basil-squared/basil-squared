@@ -4,7 +4,7 @@
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 weeks ago)
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (3 weeks ago)
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (4 weeks ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (3 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (3 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (4 months ago)
@@ -42,7 +42,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 4 months ago) - A balatro mod of epic proportions.
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 4 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([1.1.5](https://github.com/espcaa/wakatime-aseprite/releases/tag/1.1.5), 5 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 
 #### 🔨 My recent Pull Requests
 
