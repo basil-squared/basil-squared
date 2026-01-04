@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (today)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (1 month ago)
@@ -11,10 +12,10 @@
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (4 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (4 months ago)
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance! (6 months ago)
-- [tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux (7 months ago)
 
 #### 🌱 My latest projects
 
+- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox.
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
@@ -24,7 +25,6 @@
 - [dieOfBalatro](https://github.com/basil-squared/dieOfBalatro) - 
 - [AsepriteDirectory](https://github.com/basil-squared/AsepriteDirectory) - a fully-open-source website designed to make finding aseprite extensions and themes trivial.
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) - 
-- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal)
 
 #### 🍴 My recent forks
 
