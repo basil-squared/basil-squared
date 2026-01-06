@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (1 day ago)
+- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (2 days ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 1 day ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
+- [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 4 months ago) - A balatro mod of epic proportions.
 
 #### 🔨 My recent Pull Requests
