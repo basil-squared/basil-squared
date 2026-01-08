@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds by Churgney Gurgney to Minecraft, because I like the songs. (1 day ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds by Churgney Gurgney to Minecraft, because I like the songs. (today)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (4 days ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 weeks ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
