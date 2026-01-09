@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds by Churgney Gurgney to Minecraft, because I like the songs. (1 day ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds by Churgney Gurgney to Minecraft, because I like the songs. (today)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (5 days ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
@@ -41,6 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v0.0.1](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v0.0.1), today) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds by Churgney Gurgney to Minecraft, because I like the songs.
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 5 days ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 4 months ago) - A balatro mod of epic proportions.
 
