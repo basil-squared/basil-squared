@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 day ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 days ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (1 week ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
@@ -10,7 +10,7 @@
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (4 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (4 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (4 months ago)
-- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (4 months ago)
+- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (5 months ago)
 - [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (5 months ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.7](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.7), 1 day ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.7](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.7), 2 days ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 4 months ago) - A balatro mod of epic proportions.
 
@@ -67,8 +67,8 @@
 
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (7 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (7 months ago)
-- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (7 months ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (7 months ago)
+- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (8 months ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (8 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (8 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (1 year ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (1 year ago)
