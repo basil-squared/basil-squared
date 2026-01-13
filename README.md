@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (3 days ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 day ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (1 week ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [CreateBigCannons](https://github.com/basil-squared/CreateBigCannons) - A Minecraft mod for building large cannons with the Create mod.
 - [SMODS_Wiki](https://github.com/basil-squared/SMODS_Wiki) - 
 - [smods](https://github.com/basil-squared/smods) - A Balatro Modding Framework
 - [balatro-mod-index](https://github.com/basil-squared/balatro-mod-index) - A comprehensive collection of mods for Balatro, the roguelike poker deckbuilder. This repository serves as a central hub for the Balatro modding community.
@@ -37,11 +38,10 @@
 - [riceathon](https://github.com/basil-squared/riceathon) - Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks
 - [OnBoard](https://github.com/basil-squared/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
 - [sprig](https://github.com/basil-squared/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
-- [hackpad](https://github.com/basil-squared/hackpad) - A macropad (mini-keyboard) You Ship, We Ship (YSWS) by Hack Club. Solely maintained by @qcoral
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.7](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.7), 3 days ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), today) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 1 week ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 5 months ago) - A balatro mod of epic proportions.
 
