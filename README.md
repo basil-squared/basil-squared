@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (today)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 day ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (1 week ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
@@ -11,10 +12,10 @@
 - [Respawn](https://github.com/basil-squared/Respawn) -  (4 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (5 months ago)
 - [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (5 months ago)
-- [Overclock-API](https://github.com/basil-squared/Overclock-API) - An API allowing the easy creation of Overclocked Jokers (5 months ago)
 
 #### 🌱 My latest projects
 
+- [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox.
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
@@ -24,7 +25,6 @@
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth
 - [SwiftGuessingGame](https://github.com/basil-squared/SwiftGuessingGame) - blargh
 - [dieOfBalatro](https://github.com/basil-squared/dieOfBalatro) - 
-- [AsepriteDirectory](https://github.com/basil-squared/AsepriteDirectory) - a fully-open-source website designed to make finding aseprite extensions and themes trivial.
 
 #### 🍴 My recent forks
 
