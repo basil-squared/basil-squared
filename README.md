@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (today)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (5 days ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 week ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 week ago)
@@ -11,10 +12,10 @@
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (1 month ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (4 months ago)
 - [Respawn](https://github.com/basil-squared/Respawn) -  (4 months ago)
-- [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (5 months ago)
 
 #### 🌱 My latest projects
 
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
@@ -24,7 +25,6 @@
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
 - [Respawn](https://github.com/basil-squared/Respawn) - 
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth
-- [SwiftGuessingGame](https://github.com/basil-squared/SwiftGuessingGame) - blargh
 
 #### 🍴 My recent forks
 
