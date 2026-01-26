@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (today)
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 day ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 week ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 week ago)
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 week ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 weeks ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (3 weeks ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 4 days ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
+- [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 5 days ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 1 week ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 3 weeks ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 5 months ago) - A balatro mod of epic proportions.
@@ -53,8 +53,8 @@
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (5 months ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (7 months ago)
-- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (7 months ago)
-- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (7 months ago)
+- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (8 months ago)
+- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (8 months ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (8 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (11 months ago)
 - [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (1 year ago)
