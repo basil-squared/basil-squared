@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (today)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 week ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (3 weeks ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (3 weeks ago)
@@ -11,10 +12,10 @@
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (2 months ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (2 months ago)
 - [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (5 months ago)
-- [Respawn](https://github.com/basil-squared/Respawn) -  (5 months ago)
 
 #### 🌱 My latest projects
 
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
@@ -24,7 +25,6 @@
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
 - [Respawn](https://github.com/basil-squared/Respawn) - 
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth
 
 #### 🍴 My recent forks
 
