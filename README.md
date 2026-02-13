@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (today)
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 day ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 weeks ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (4 weeks ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 month ago)
@@ -66,8 +66,8 @@
 
 #### ⭐ Recent Stars
 
-- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (8 months ago)
-- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (8 months ago)
+- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (9 months ago)
+- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (9 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (9 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (9 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (9 months ago)
