@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 days ago)
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 days ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 weeks ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 month ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 month ago)
@@ -52,7 +52,7 @@
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
-- [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (7 months ago)
+- [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (8 months ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (8 months ago)
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (8 months ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (9 months ago)
