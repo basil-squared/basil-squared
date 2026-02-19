@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (today)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 week ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 weeks ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 month ago)
@@ -11,10 +12,10 @@
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (2 months ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (2 months ago)
-- [Despawner](https://github.com/basil-squared/Despawner) - A bot intended to nuke the spawnists from the face of the earth (5 months ago)
 
 #### 🌱 My latest projects
 
+- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
@@ -24,7 +25,6 @@
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 - [phonkMod](https://github.com/basil-squared/phonkMod) - 
-- [Respawn](https://github.com/basil-squared/Respawn) - 
 
 #### 🍴 My recent forks
 
