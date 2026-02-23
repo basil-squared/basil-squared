@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 days ago)
+- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (3 days ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 week ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (4 weeks ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 month ago)
