@@ -11,7 +11,7 @@
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (1 month ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (2 months ago)
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (2 months ago)
+- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (3 months ago)
 
 #### 🌱 My latest projects
 
