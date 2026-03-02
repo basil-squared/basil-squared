@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [fidely-ui](https://github.com/basil-squared/fidely-ui) - Build production-ready React apps faster.
 - [CreateBigCannons](https://github.com/basil-squared/CreateBigCannons) - A Minecraft mod for building large cannons with the Create mod.
 - [SMODS_Wiki](https://github.com/basil-squared/SMODS_Wiki) - 
 - [smods](https://github.com/basil-squared/smods) - A Balatro Modding Framework
@@ -37,7 +38,6 @@
 - [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
 - [riceathon](https://github.com/basil-squared/riceathon) - Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks
 - [OnBoard](https://github.com/basil-squared/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
-- [sprig](https://github.com/basil-squared/sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 
 #### 🔭 Latest releases I've contributed to
 
@@ -48,6 +48,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (today)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
@@ -57,7 +58,6 @@
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (9 months ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (9 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (1 year ago)
-- [Update members.json](https://github.com/hackclub/riceathon/pull/20) on [riceathon](https://github.com/hackclub/riceathon) (1 year ago)
 
 
 
