@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production-ready React apps faster. (today)
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production-ready React apps faster. (1 day ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 week ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (2 weeks ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.2.1](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.2.1), 1 day ago) - Build production-ready React apps faster.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.2.1](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.2.1), 2 days ago) - Build production-ready React apps faster.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 1 month ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 1 month ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 1 month ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
@@ -49,7 +49,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (today)
+- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (1 day ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
