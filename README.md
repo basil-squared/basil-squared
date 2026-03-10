@@ -10,7 +10,7 @@
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 month ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 month ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (2 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 months ago)
 
 #### 🌱 My latest projects
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 3 days ago) - Build production-ready React apps faster.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 4 days ago) - Build production-ready React apps faster.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 1 month ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 1 month ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
@@ -51,13 +51,13 @@
 
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (1 week ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
-- [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
-- [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (6 months ago)
+- [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
+- [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (8 months ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (8 months ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (9 months ago)
 - [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (9 months ago)
-- [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (9 months ago)
+- [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (10 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (1 year ago)
 
 
