@@ -4,7 +4,7 @@
 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 week ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 weeks ago)
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (3 weeks ago)
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 weeks ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 month ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 5 days ago) - Build production ready React apps.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 6 days ago) - Build production ready React apps.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 1 month ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 1 month ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
