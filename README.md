@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 week ago)
-- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 weeks ago)
+- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (3 weeks ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 weeks ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (1 month ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (1 month ago)
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 month ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (2 months ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 months ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 6 days ago) - Build production ready React apps.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.2](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.2), 1 week ago) - Build production ready React apps.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 1 month ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 1 month ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
@@ -69,8 +69,8 @@
 
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (9 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (9 months ago)
-- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (9 months ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (9 months ago)
+- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (10 months ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (10 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (10 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (1 year ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
