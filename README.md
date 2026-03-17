@@ -67,6 +67,7 @@
 
 #### ⭐ Recent Stars
 
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (today)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (10 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (10 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (10 months ago)
@@ -76,7 +77,6 @@
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (2 years ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 years ago)
-- [tux](https://github.com/allthingslinux/tux) - The all-in-one open source Discord bot brought to you by @allthingslinux (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
