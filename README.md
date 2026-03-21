@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (today)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (2 weeks ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (4 weeks ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 month ago)
@@ -11,10 +12,10 @@
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (2 months ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
-- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :) (3 months ago)
 
 #### 🌱 My latest projects
 
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
@@ -24,7 +25,6 @@
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox.
 - [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
-- [phonkMod](https://github.com/basil-squared/phonkMod) - 
 
 #### 🍴 My recent forks
 
