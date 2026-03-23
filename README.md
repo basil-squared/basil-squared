@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (today)
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (2 weeks ago)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 day ago)
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (3 weeks ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 month ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 month ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.3](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.3), 2 days ago) - Build production ready React apps.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.3](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.3), 3 days ago) - Build production ready React apps.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 2 months ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 2 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
@@ -49,7 +49,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (2 weeks ago)
+- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (3 weeks ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (5 days ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (6 days ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (10 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (10 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (10 months ago)
