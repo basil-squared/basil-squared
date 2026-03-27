@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (today)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 day ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (3 weeks ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 month ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 month ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.3](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.3), 6 days ago) - Build production ready React apps.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/panda-preset@2.2.3](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/panda-preset%402.2.3), 1 week ago) - Build production ready React apps.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 2 months ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 2 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 2 months ago) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
@@ -55,8 +55,8 @@
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (7 months ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (9 months ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (9 months ago)
-- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (9 months ago)
-- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (9 months ago)
+- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (10 months ago)
+- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (10 months ago)
 - [Add in CI workflows for all 3 major Operating Systems](https://github.com/TheBearodactyl/shaderinit/pull/1) on [shaderinit](https://github.com/TheBearodactyl/shaderinit) (10 months ago)
 - [JamMania](https://github.com/hackclub/juice/pull/265) on [juice](https://github.com/hackclub/juice) (1 year ago)
 
