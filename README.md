@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 day ago)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (2 days ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (3 weeks ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 month ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 month ago)
