@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (4 days ago)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (5 days ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 weeks ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 month ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (1 month ago)
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (1 week ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (2 weeks ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (10 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (10 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (10 months ago)
