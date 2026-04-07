@@ -67,12 +67,12 @@
 
 #### ⭐ Recent Stars
 
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (2 weeks ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (3 weeks ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (10 months ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (10 months ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (10 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (10 months ago)
-- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (10 months ago)
+- [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (11 months ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (1 year ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (2 years ago)
