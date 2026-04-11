@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 day ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (2 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (2 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (3 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 months ago)
 
 #### 🌱 My latest projects
 
