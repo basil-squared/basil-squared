@@ -78,7 +78,7 @@
 #### 👯 Check out some of my recent followers
 
 - [berris](https://github.com/berris)
-- [thecaprisun](https://github.com/thecaprisun)
+- [sinewavess](https://github.com/sinewavess)
 - [gogodze](https://github.com/gogodze)
 - [ddjerqq](https://github.com/ddjerqq)
 
