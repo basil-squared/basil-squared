@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 6 days ago) - Build production ready React apps.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 1 week ago) - Build production ready React apps.
 - [tux](https://github.com/allthingslinux/tux) ([v0.1.1](https://github.com/allthingslinux/tux/releases/tag/v0.1.1), 2 months ago) - The all-in-one open source Discord bot brought to you by @allthingslinux
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 3 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) ([2.0.0](https://github.com/espcaa/wakatime-aseprite/releases/tag/2.0.0), 3 months ago) - a simple aseprite plugin to track time spent drawing on a compatible wakatime instance!
