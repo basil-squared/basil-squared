@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (3 weeks ago)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (4 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (2 months ago)
