@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Balaware](https://github.com/basil-squared/Balaware) -  (today)
 - [Seasoning](https://github.com/basil-squared/Seasoning) -  (today)
+- [Balaware](https://github.com/basil-squared/Balaware) -  (today)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (4 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
