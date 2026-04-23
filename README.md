@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Balaware](https://github.com/basil-squared/Balaware) -  (today)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (today)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (4 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
@@ -10,11 +12,11 @@
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (3 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (3 months ago)
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (3 months ago)
-- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (3 months ago)
 
 #### 🌱 My latest projects
 
+- [Seasoning](https://github.com/basil-squared/Seasoning) - 
+- [Balaware](https://github.com/basil-squared/Balaware) - 
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
@@ -23,8 +25,6 @@
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox.
-- [AdventOfCode](https://github.com/basil-squared/AdventOfCode) - my advent of code projects :)
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does.
 
 #### 🍴 My recent forks
 
