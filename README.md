@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Seasoning](https://github.com/basil-squared/Seasoning) -  (today)
-- [Balaware](https://github.com/basil-squared/Balaware) -  (today)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (1 day ago)
+- [Balaware](https://github.com/basil-squared/Balaware) -  (1 day ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (4 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 months ago)
