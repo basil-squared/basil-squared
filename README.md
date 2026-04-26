@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (today)
 - [Seasoning](https://github.com/basil-squared/Seasoning) -  (1 day ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (3 days ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
@@ -11,10 +12,10 @@
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (2 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (3 months ago)
-- [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (3 months ago)
 
 #### 🌱 My latest projects
 
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier
 - [Seasoning](https://github.com/basil-squared/Seasoning) - 
 - [Balaware](https://github.com/basil-squared/Balaware) - 
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
@@ -24,7 +25,6 @@
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
-- [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox.
 
 #### 🍴 My recent forks
 
