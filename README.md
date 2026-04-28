@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (1 day ago)
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (today)
 - [Seasoning](https://github.com/basil-squared/Seasoning) -  (3 days ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (5 days ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
