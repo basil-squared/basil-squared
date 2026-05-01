@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (2 days ago)
-- [Seasoning](https://github.com/basil-squared/Seasoning) -  (5 days ago)
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (3 days ago)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (6 days ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (1 week ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 month ago)
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (1 month ago)
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (2 months ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (2 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
@@ -48,7 +48,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (1 month ago)
+- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (2 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (8 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (8 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (8 months ago)
