@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (3 days ago)
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (4 days ago)
 - [Seasoning](https://github.com/basil-squared/Seasoning) -  (1 week ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (1 week ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
@@ -72,7 +72,7 @@
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (11 months ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (11 months ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) -  (11 months ago)
-- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (1 year ago)
+- [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (2 years ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (2 years ago)
 - [catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 years ago)
