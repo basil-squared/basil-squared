@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (1 week ago)
+- [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (2 weeks ago)
 - [Seasoning](https://github.com/basil-squared/Seasoning) -  (2 weeks ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (3 weeks ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
@@ -11,7 +11,7 @@
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (2 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (3 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
-- [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (3 months ago)
+- [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -49,7 +49,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (4 weeks ago)
+- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (1 month ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (1 month ago)
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (2 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (9 months ago)
