@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (2 weeks ago)
-- [Seasoning](https://github.com/basil-squared/Seasoning) -  (2 weeks ago)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (3 weeks ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (3 weeks ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 month ago)
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (1 month ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (2 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
