@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (3 weeks ago)
-- [Seasoning](https://github.com/basil-squared/Seasoning) -  (3 weeks ago)
-- [Balaware](https://github.com/basil-squared/Balaware) -  (4 weeks ago)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (4 weeks ago)
+- [Balaware](https://github.com/basil-squared/Balaware) -  (1 month ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (2 months ago)
