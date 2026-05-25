@@ -3,14 +3,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier (3 weeks ago)
-- [Seasoning](https://github.com/basil-squared/Seasoning) -  (4 weeks ago)
+- [Seasoning](https://github.com/basil-squared/Seasoning) -  (1 month ago)
 - [Balaware](https://github.com/basil-squared/Balaware) -  (1 month ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
-- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (1 month ago)
+- [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) -  (2 months ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (2 months ago)
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) -  (3 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (3 months ago)
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (4 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (4 months ago)
 
 #### 🌱 My latest projects
