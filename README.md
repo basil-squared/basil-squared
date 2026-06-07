@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (3 months ago)
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (3 months ago)
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (4 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (4 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (4 months ago)
