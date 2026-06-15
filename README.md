@@ -65,7 +65,7 @@
 
 #### ⭐ Recent Stars
 
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (2 months ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (3 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
