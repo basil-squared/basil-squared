@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 day ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (3 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (5 months ago)
@@ -11,10 +12,10 @@
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (6 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (10 months ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (10 months ago)
-- [hitTweetGenerator](https://github.com/basil-squared/hitTweetGenerator) - Generates the freshest, most banger tweets on the block ( stupid quick project to get a feel for Teal) (10 months ago)
 
 #### 🌱 My latest projects
 
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat
 - [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier
 - [Seasoning](https://github.com/basil-squared/Seasoning) - 
 - [Balaware](https://github.com/basil-squared/Balaware) - 
@@ -24,7 +25,6 @@
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 
 #### 🍴 My recent forks
 
