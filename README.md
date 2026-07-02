@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [Authentikate](https://github.com/basil-squared/Authentikate) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [fidely-ui](https://github.com/basil-squared/fidely-ui) - Build production-ready React apps faster.
 - [CreateBigCannons](https://github.com/basil-squared/CreateBigCannons) - A Minecraft mod for building large cannons with the Create mod.
 - [SMODS_Wiki](https://github.com/basil-squared/SMODS_Wiki) - 
@@ -37,7 +38,6 @@
 - [shaderinit](https://github.com/basil-squared/shaderinit) - 
 - [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
 - [riceathon](https://github.com/basil-squared/riceathon) - Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks
-- [OnBoard](https://github.com/basil-squared/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
 
 #### 🔭 Latest releases I've contributed to
 
