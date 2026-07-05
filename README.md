@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) - 
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat
 - [SaltOMeter](https://github.com/basil-squared/SaltOMeter) - a device that makes salty magic players saltier
 - [Seasoning](https://github.com/basil-squared/Seasoning) - 
@@ -24,7 +25,6 @@
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets! 
-- [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs
 
 #### 🍴 My recent forks
 
