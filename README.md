@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (2 weeks ago)
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 day ago)
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (4 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (5 months ago)
@@ -11,7 +12,6 @@
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (6 months ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (7 months ago)
 - [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (10 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [jellyfin-rpc](https://github.com/basil-squared/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [Authentikate](https://github.com/basil-squared/Authentikate) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [fidely-ui](https://github.com/basil-squared/fidely-ui) - Build production-ready React apps faster.
 - [CreateBigCannons](https://github.com/basil-squared/CreateBigCannons) - A Minecraft mod for building large cannons with the Create mod.
@@ -37,10 +38,10 @@
 - [wakatime-aseprite](https://github.com/basil-squared/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [shaderinit](https://github.com/basil-squared/shaderinit) - 
 - [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
-- [riceathon](https://github.com/basil-squared/riceathon) - Upcoming Hack Club YSWS where you can rice your Linux desktop and submit your dotfiles to get free programmer socks
 
 #### 🔭 Latest releases I've contributed to
 
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), today) - 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 2 months ago) - Build production ready React apps.
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 5 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 10 months ago) - A balatro mod of epic proportions.
