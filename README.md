@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [.github](https://github.com/rift-collective/.github) -  (today)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (3 days ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
@@ -11,7 +12,6 @@
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (5 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (6 months ago)
 - [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (7 months ago)
-- [BlackjackLua](https://github.com/basil-squared/BlackjackLua) -  (10 months ago)
 
 #### 🌱 My latest projects
 
