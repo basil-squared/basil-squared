@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (today)
 - [.github](https://github.com/rift-collective/.github) -  (2 days ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (5 days ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 weeks ago)
@@ -11,7 +12,6 @@
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (5 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (5 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (6 months ago)
-- [Badger](https://github.com/basil-squared/Badger) - An open source E-ink badge that follows you where a badge does. (7 months ago)
 
 #### 🌱 My latest projects
 
