@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 days ago)
-- [.github](https://github.com/rift-collective/.github) -  (4 days ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 days ago)
+- [.github](https://github.com/rift-collective/.github) -  (5 days ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 week ago)
-- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 weeks ago)
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (4 weeks ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (5 months ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 6 days ago) - 
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 1 week ago) - 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 3 months ago) - Build production ready React apps.
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 6 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 11 months ago) - A balatro mod of epic proportions.
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 days ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (4 days ago)
 - [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (3 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
