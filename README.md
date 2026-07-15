@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 days ago)
-- [.github](https://github.com/rift-collective/.github) -  (6 days ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (5 days ago)
+- [.github](https://github.com/rift-collective/.github) -  (1 week ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 week ago)
-- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (4 weeks ago)
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (6 months ago)
@@ -66,8 +66,8 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (5 days ago)
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (3 months ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (6 days ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (4 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
