@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 week ago)
-- [.github](https://github.com/rift-collective/.github) -  (1 week ago)
+- [.github](https://github.com/rift-collective/.github) -  (2 weeks ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (2 weeks ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
