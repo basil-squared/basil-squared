@@ -6,7 +6,7 @@
 - [.github](https://github.com/rift-collective/.github) -  (3 weeks ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (3 weeks ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (4 months ago)
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (5 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (6 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (6 months ago)
@@ -50,7 +50,7 @@
 
 - [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
-- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (4 months ago)
+- [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (5 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (11 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (11 months ago)
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (11 months ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (2 weeks ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 weeks ago)
 - [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (4 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
