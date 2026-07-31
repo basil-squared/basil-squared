@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 weeks ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [.github](https://github.com/rift-collective/.github) -  (3 weeks ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (3 weeks ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
