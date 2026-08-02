@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [sift](https://github.com/basil-squared/sift) - slop
 - [runic](https://github.com/basil-squared/runic) - 
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) - 
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat
@@ -24,7 +25,6 @@
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way.
 
 #### 🍴 My recent forks
 
