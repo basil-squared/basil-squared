@@ -4,7 +4,7 @@
 
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [.github](https://github.com/rift-collective/.github) -  (3 weeks ago)
-- [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (4 weeks ago)
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 month ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (5 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 months ago)
@@ -49,7 +49,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
-- [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
+- [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (4 months ago)
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (5 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (11 months ago)
 - [fix bug with overclock UI](https://github.com/basil-squared/Charcuterie/pull/4) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (11 months ago)
