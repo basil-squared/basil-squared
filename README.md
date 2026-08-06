@@ -7,7 +7,7 @@
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 month ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (5 months ago)
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (5 months ago)
+- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (6 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (6 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (6 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (6 months ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 weeks ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (4 weeks ago)
 - [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (4 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
