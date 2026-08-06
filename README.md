@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (today)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 weeks ago)
 - [.github](https://github.com/rift-collective/.github) -  (4 weeks ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 month ago)
@@ -10,7 +11,6 @@
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (6 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (6 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (6 months ago)
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (6 months ago)
 - [RobloxGithubAPIWrapper](https://github.com/basil-squared/RobloxGithubAPIWrapper) - A wrapper to manage creating and sorting github issues through Roblox. (7 months ago)
 
 #### 🌱 My latest projects
@@ -48,6 +48,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (today)
 - [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (4 months ago)
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (5 months ago)
@@ -57,7 +58,6 @@
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 year ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 year ago)
 - [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (1 year ago)
-- [Fix cinnamon logo so its not all wobbly](https://github.com/allthingslinux/tux/pull/877) on [tux](https://github.com/allthingslinux/tux) (1 year ago)
 
 
 
