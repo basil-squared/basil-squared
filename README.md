@@ -2,15 +2,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (4 days ago)
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (6 days ago)
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (5 days ago)
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 week ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
 - [.github](https://github.com/rift-collective/.github) -  (1 month ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (1 month ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (1 month ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (5 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (6 months ago)
-- [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (6 months ago)
+- [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (7 months ago)
 - [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (7 months ago)
 
 #### 🌱 My latest projects
@@ -48,8 +48,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (6 days ago)
-- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (3 months ago)
+- [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (1 week ago)
+- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (4 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (4 months ago)
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (5 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 year ago)
