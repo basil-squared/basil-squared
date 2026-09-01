@@ -15,6 +15,7 @@
 
 #### 🌱 My latest projects
 
+- [rpgjavathing](https://github.com/basil-squared/rpgjavathing) - 
 - [sift](https://github.com/basil-squared/sift) - slop
 - [runic](https://github.com/basil-squared/runic) - 
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) - 
@@ -24,7 +25,6 @@
 - [Balaware](https://github.com/basil-squared/Balaware) - 
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
 - [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro
 
 #### 🍴 My recent forks
 
