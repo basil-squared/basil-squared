@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (today)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 weeks ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (3 weeks ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (1 month ago)
@@ -11,7 +12,6 @@
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build production ready React apps. (6 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (6 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (7 months ago)
-- [sinister-discs-multiloader-temp](https://github.com/basil-squared/sinister-discs-multiloader-temp) - Temporary repository for the multiplatform update to sinister-discs (7 months ago)
 
 #### 🌱 My latest projects
 
