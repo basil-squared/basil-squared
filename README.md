@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (3 weeks ago)
+- [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (4 weeks ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (1 month ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
