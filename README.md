@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (1 month ago)
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (1 month ago)
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
 - [.github](https://github.com/rift-collective/.github) -  (3 months ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (2 months ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 months ago)
 - [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (6 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
