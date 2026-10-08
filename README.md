@@ -5,7 +5,7 @@
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (1 month ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (2 months ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [.github](https://github.com/rift-collective/.github) -  (3 months ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (3 months ago)
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 months ago)
@@ -42,7 +42,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 3 months ago) - 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 5 months ago) - Build Ready React applications.
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 6 months ago) - Build Ready React applications.
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 8 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 1 year ago) - A balatro mod of epic proportions.
 
