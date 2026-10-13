@@ -8,7 +8,7 @@
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
 - [.github](https://github.com/rift-collective/.github) -  (3 months ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (3 months ago)
-- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (3 months ago)
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (4 months ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build Ready React applications. (7 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (8 months ago)
 - [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (9 months ago)
@@ -67,7 +67,7 @@
 #### ⭐ Recent Stars
 
 - [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 months ago)
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (6 months ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (7 months ago)
 - [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
