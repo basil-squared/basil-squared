@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (today)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (2 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
@@ -11,10 +12,10 @@
 - [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (4 months ago)
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build Ready React applications. (8 months ago)
 - [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (8 months ago)
-- [create_gauntlets](https://github.com/basil-squared/create_gauntlets) - Adds a new weapon type, the gauntlets!  (9 months ago)
 
 #### 🌱 My latest projects
 
+- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) - 
 - [sift](https://github.com/basil-squared/sift) - slop
 - [runic](https://github.com/basil-squared/runic) - 
@@ -24,7 +25,6 @@
 - [Seasoning](https://github.com/basil-squared/Seasoning) - 
 - [Balaware](https://github.com/basil-squared/Balaware) - 
 - [bazaarbuddy](https://github.com/basil-squared/bazaarbuddy) - 
-- [magiccommandergenerator](https://github.com/basil-squared/magiccommandergenerator) - 
 
 #### 🍴 My recent forks
 
