@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (1 day ago)
+- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (2 days ago)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (2 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (2 months ago)
@@ -41,7 +41,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 3 months ago) - 
+- [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 4 months ago) - 
 - [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 6 months ago) - Build Ready React applications.
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 9 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 1 year ago) - A balatro mod of epic proportions.
@@ -72,7 +72,7 @@
 - [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
 - [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
 - [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 year ago)
-- [VanillaRemade](https://github.com/nh6574/VanillaRemade) - Example mod for Balatro (1 year ago)
+- [VanillaRemade](https://github.com/nh6574/VanillaRemade) - Example mod for Balatro (2 years ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (2 years ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
 - [Equibop](https://github.com/Equicord/Equibop) - Equibop is a custom Discord App aiming to give you better performance and improve linux support (2 years ago)
