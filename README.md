@@ -28,6 +28,7 @@
 
 #### 🍴 My recent forks
 
+- [ahdmedmmordi-store-app-fork](https://github.com/basil-squared/ahdmedmmordi-store-app-fork) - A Spring Boot store application with modules for Product, Category, Customer, and Order management, featuring MySQL persistence, Flyway database migrations, Redis caching, reactive dummy product integration, AOP-based metrics, and OpenAPI documentation.
 - [jellyfin-rpc](https://github.com/basil-squared/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [Authentikate](https://github.com/basil-squared/Authentikate) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [fidely-ui](https://github.com/basil-squared/fidely-ui) - Build production-ready React apps faster.
@@ -37,7 +38,6 @@
 - [balatro-mod-index](https://github.com/basil-squared/balatro-mod-index) - A comprehensive collection of mods for Balatro, the roguelike poker deckbuilder. This repository serves as a central hub for the Balatro modding community.
 - [wakatime-aseprite](https://github.com/basil-squared/wakatime-aseprite) - An Aseprite plugin to register your time spent drawing on a compatible Wakatime instance!
 - [shaderinit](https://github.com/basil-squared/shaderinit) - 
-- [juice](https://github.com/basil-squared/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China
 
 #### 🔭 Latest releases I've contributed to
 
@@ -48,6 +48,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add total spending endpoint](https://github.com/ahmedmmordi/store-app/pull/6) on [store-app](https://github.com/ahmedmmordi/store-app) (today)
 - [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (3 months ago)
 - [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (6 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (7 months ago)
@@ -57,7 +58,6 @@
 - [1.0.0... is here](https://github.com/basil-squared/Charcuterie/pull/3) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 year ago)
 - [Dev](https://github.com/basil-squared/Charcuterie/pull/2) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 year ago)
 - [Fix command processing to avoid freezing on slower connections](https://github.com/espcaa/wakatime-aseprite/pull/3) on [wakatime-aseprite](https://github.com/espcaa/wakatime-aseprite) (1 year ago)
-- [New cosmic](https://github.com/allthingslinux/tux/pull/878) on [tux](https://github.com/allthingslinux/tux) (1 year ago)
 
 
 
