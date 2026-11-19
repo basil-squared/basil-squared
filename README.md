@@ -2,16 +2,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (4 days ago)
+- [badger-cub](https://github.com/badger-boards/badger-cub) - An open source E-ink badge that follows you where a badge does. (1 day ago)
+- [Badger-Cub-Firmware](https://github.com/badger-boards/Badger-Cub-Firmware) - The rust-powered firmware used to drive the Badger Cub, my E-Ink keychain. (4 days ago)
+- [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (2 weeks ago)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (2 months ago)
-- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (2 months ago)
+- [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
 - [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil (3 months ago)
-- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (3 months ago)
+- [Charcuterie](https://github.com/basil-squared/Charcuterie) - A balatro mod of epic proportions. (4 months ago)
 - [.github](https://github.com/rift-collective/.github) -  (4 months ago)
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) -  (4 months ago)
-- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (4 months ago)
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) - Build Ready React applications. (8 months ago)
-- [ante_aether](https://github.com/basil-squared/ante_aether) - A High Fantasy Reimagining of Balatro (9 months ago)
+- [Voidweave](https://github.com/basil-squared/Voidweave) - Relay server software that powers Voidmat (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -42,15 +42,15 @@
 #### 🔭 Latest releases I've contributed to
 
 - [Low-Tide](https://github.com/basil-squared/Low-Tide) ([v1.0.0](https://github.com/basil-squared/Low-Tide/releases/tag/v1.0.0), 4 months ago) - 
-- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 6 months ago) - Build Ready React applications.
-- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 9 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
+- [fidely-ui](https://github.com/fidely-ui/fidely-ui) ([@fidely-ui/react@2.3.0](https://github.com/fidely-ui/fidely-ui/releases/tag/%40fidely-ui/react%402.3.0), 7 months ago) - Build Ready React applications.
+- [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) ([v1.1.8](https://github.com/basil-squared/sinister-minds-discs/releases/tag/v1.1.8), 10 months ago) - a mod for Minecraft Fabric 1.21.11 that adds the tracks of Sinister Minds to Minecraft, because I like the songs. and Evil
 - [Charcuterie](https://github.com/basil-squared/Charcuterie) ([1.0.2](https://github.com/basil-squared/Charcuterie/releases/tag/1.0.2), 1 year ago) - A balatro mod of epic proportions.
 
 #### 🔨 My recent Pull Requests
 
-- [Add total spending endpoint](https://github.com/ahmedmmordi/store-app/pull/6) on [store-app](https://github.com/ahmedmmordi/store-app) (today)
+- [Add total spending endpoint](https://github.com/ahmedmmordi/store-app/pull/6) on [store-app](https://github.com/ahmedmmordi/store-app) (2 weeks ago)
 - [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (3 months ago)
-- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (6 months ago)
+- [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (7 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (7 months ago)
 - [Fix the hardcoded link to a relative refernece](https://github.com/fidely-ui/fidely-ui/pull/240) on [fidely-ui](https://github.com/fidely-ui/fidely-ui) (8 months ago)
 - [1.0.2 Fixing Probabilities](https://github.com/basil-squared/Charcuterie/pull/5) on [Charcuterie](https://github.com/basil-squared/Charcuterie) (1 year ago)
@@ -66,12 +66,12 @@
 
 #### ⭐ Recent Stars
 
-- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (3 months ago)
-- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (7 months ago)
-- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (1 year ago)
-- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (1 year ago)
-- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (1 year ago)
-- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (1 year ago)
+- [tiktok-voice](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API (4 months ago)
+- [mana](https://github.com/andrewgioia/mana) - Magic: the Gathering mana symbol pictographic font (8 months ago)
+- [Partner-API](https://github.com/Icecanno/Partner-API) - A Fun-filled Vanilla Balatro Content API Mod (2 years ago)
+- [CardSleeves](https://github.com/larswijn/CardSleeves) - CardSleeves Balatro Mod (2 years ago)
+- [smods](https://github.com/Steamodded/smods) - A Balatro Modding Framework (2 years ago)
+- [shaderinit](https://github.com/TheBearodactyl/shaderinit) -  (2 years ago)
 - [VanillaRemade](https://github.com/nh6574/VanillaRemade) - Example mod for Balatro (2 years ago)
 - [OnBoard](https://github.com/hackclub/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant! (2 years ago)
 - [Decktility](https://github.com/ByteWelder/Decktility) - A handheld PC (2 years ago)
@@ -82,11 +82,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [ancaferro](https://github.com/ancaferro)
+- [yumiaura](https://github.com/yumiaura)
 - [berris](https://github.com/berris)
 - [sinewavess](https://github.com/sinewavess)
 - [gogodze](https://github.com/gogodze)
-- [ddjerqq](https://github.com/ddjerqq)
 
 #### 💬 Feedback
 
