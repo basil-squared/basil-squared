@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [badger-cub](https://github.com/badger-boards/badger-cub) - An open source E-ink badge that follows you where a badge does. (1 day ago)
-- [Badger-Cub-Firmware](https://github.com/badger-boards/Badger-Cub-Firmware) - The rust-powered firmware used to drive the Badger Cub, my E-Ink keychain. (4 days ago)
+- [badger-cub](https://github.com/badger-boards/badger-cub) - An open source E-ink badge that follows you where a badge does. (2 days ago)
+- [Badger-Cub-Firmware](https://github.com/badger-boards/Badger-Cub-Firmware) - The rust-powered firmware used to drive the Badger Cub, my E-Ink keychain. (5 days ago)
 - [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (2 weeks ago)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (2 months ago)
 - [amethyst_applications](https://github.com/basil-squared/amethyst_applications) - Makes amethyst more useful in a fun and memorable way. (3 months ago)
