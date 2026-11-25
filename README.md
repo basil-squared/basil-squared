@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [badger-cub](https://github.com/badger-boards/badger-cub) - An open source E-ink badge that follows you where a badge does. (6 days ago)
+- [badger-cub](https://github.com/badger-boards/badger-cub) - An open source E-ink badge that follows you where a badge does. (1 week ago)
 - [Badger-Cub-Firmware](https://github.com/badger-boards/Badger-Cub-Firmware) - The rust-powered firmware used to drive the Badger Cub, my E-Ink keychain. (1 week ago)
 - [Castaway-Vizio](https://github.com/basil-squared/Castaway-Vizio) - Persistent UI Hijack & RCE for Vizio SmartCast (Chromium 72) (CVE Pending) (3 weeks ago)
 - [rpgjavathing](https://github.com/basil-squared/rpgjavathing) -  (2 months ago)
