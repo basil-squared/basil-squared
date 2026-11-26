@@ -48,7 +48,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add total spending endpoint](https://github.com/ahmedmmordi/store-app/pull/6) on [store-app](https://github.com/ahmedmmordi/store-app) (2 weeks ago)
+- [Add total spending endpoint](https://github.com/ahmedmmordi/store-app/pull/6) on [store-app](https://github.com/ahmedmmordi/store-app) (3 weeks ago)
 - [Multiloader architectury](https://github.com/basil-squared/sinister-minds-discs/pull/1) on [sinister-minds-discs](https://github.com/basil-squared/sinister-minds-discs) (3 months ago)
 - [Voucher fixes](https://github.com/Balatro-Potato-Patch/Wormhole/pull/19) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (7 months ago)
 - [Raygunbranch](https://github.com/Balatro-Potato-Patch/Wormhole/pull/5) on [Wormhole](https://github.com/Balatro-Potato-Patch/Wormhole) (7 months ago)
